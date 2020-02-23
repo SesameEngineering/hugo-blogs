@@ -1,1 +1,3 @@
-This is where we will keep all the hugo configuration files that will generate our static website.
+# blogs
+Source for our blogs
+This is our hugo based blog site. We will use this to talk about sesame based projects.

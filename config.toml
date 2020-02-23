@@ -1,0 +1,36 @@
+title = "The Sesame Engineering Blog"
+baseURL = "https://sesameengineering.github.io/sesameengineering.github.io-old/"
+languageCode = "en-us"
+theme = "ananke"
+publishDir="docs"
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 8 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "Sesame Engineering Blog Space"
+  facebook = ""
+  twitter = ""
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/SesameEngineering"
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  copyright = "ITRenew Inc"
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/ian-battaglia-9drS5E_Rguc-unsplash.jpg"
+  recent_posts_number = 2
