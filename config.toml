@@ -1,8 +1,7 @@
 title = "The Sesame Engineering Blog"
-baseURL = "https://sesameengineering.github.io/sesameengineering.github.io-old/"
+baseURL = "https://sesameengineering.github.io"
 languageCode = "en-us"
 theme = "ananke"
-publishDir="docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
