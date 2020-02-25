@@ -2,6 +2,7 @@ title = "The Sesame Engineering Blog"
 baseURL = "https://sesameengineering.github.io"
 languageCode = "en-us"
 theme = "ananke"
+meta = "The intersectionality of loving the planet, openness and engineering"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
