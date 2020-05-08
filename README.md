@@ -1,3 +1,3 @@
-# blogs
-Source for our blogs
-This is our hugo based blog site. We will use this to talk about sesame based projects.
+# Sesame Engineering Hugo blogs
+
+This is the main repository of our content. We clone this repository, and then make our posts and then generate a new version of the blog in another repository that will then be pushed to the website. You will need to update not just that repository but this repository as well.
