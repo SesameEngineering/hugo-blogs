@@ -32,6 +32,8 @@ enableRobotsTXT = true
   copyright = "ITRenew Inc"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-black"
-  featured_image = "/images/ian-battaglia-9drS5E_Rguc-unsplash.jpg"
+  featured_image = "/images/sesame-eng-blog-hero.png"
   recent_posts_number = 2
   omit_header_text = false
+  body_classes = "sans-serif"
+  custom_css = ["dist/css/style.css"]

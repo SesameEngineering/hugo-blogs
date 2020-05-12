@@ -1,0 +1,17 @@
+{{ define "main" }}
+<section class="section pa3">
+  <article>
+    <div class="columns is-centered">
+      <div class="column max-800px">
+        <h1 class="title is-1 mw8 pa3 center sans-serif purple">{{ .Title }}</h1>
+         <div class="content mw8 social-share center sans-serif">
+        {{ partial "social-share.html" . }}
+      </div>
+         <div class="content mw8 pa3 center sans-serif">
+           {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </article>
+</section>
+{{ end }}
